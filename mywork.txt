@@ -1,0 +1,27 @@
+My associated id :
+845112
+Other Team Members : 
+845106, 845112, 845107, 845084, 845140
+
+Team Lead :
+845106
+
+My Role in team :
+
+1.Save the data of the place order form in local storage by using java script
+2.Retriwing the data frpom the local storage and printing in a table format.
+
+My Development files :
+1.validate.js
+2.viewlist.html
+
+I was stong in 
+1.Html
+2.Css
+3.Java Script Validations
+
+I was weak in 
+1. Using of Bootstrap classes (i am new to that)
+
+FeedBack :
+1.Able to read codesprint document  1 day in advance will help
